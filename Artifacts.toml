@@ -1,0 +1,6 @@
+[HighFive]
+git-tree-sha1 = "e433b66beadafb7f383731322f3749d0bdeb0eb2"
+
+    [[HighFive.download]]
+    sha256 = "b407b30f8491c6e5b69f49363254cc25f45ccce1bb5587b4da94d8e52829e04e"
+    url = "https://github.com/JuliaBinaryWrappers/HighFive_jll.jl/releases/download/HighFive-v2.9.0+0/HighFive.v2.9.0.any.tar.gz"
