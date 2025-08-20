@@ -2,11 +2,10 @@
 export highfive
 
 using HDF5_jll
-using boost_jll
 JLLWrappers.@generate_wrapper_header("HighFive")
 JLLWrappers.@declare_file_product(highfive)
 function __init__()
-    JLLWrappers.@generate_init_header(HDF5_jll, boost_jll)
+    JLLWrappers.@generate_init_header(HDF5_jll)
     JLLWrappers.@init_file_product(
         highfive,
         "include/highfive/highfive.hpp",
