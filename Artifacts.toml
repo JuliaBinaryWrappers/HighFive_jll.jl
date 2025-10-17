@@ -1,6 +1,6 @@
 [HighFive]
-git-tree-sha1 = "2e9ff3dc1251c607010bc786c7b138fb3e9234f3"
+git-tree-sha1 = "3c29a7943feedafcf0a1e4f525015179d69bf918"
 
     [[HighFive.download]]
-    sha256 = "e2b10238dbea9b7724f9cd782a603d9dc0af0c050898af9553f0e3e98b813ebd"
-    url = "https://github.com/JuliaBinaryWrappers/HighFive_jll.jl/releases/download/HighFive-v3.1.1+0/HighFive.v3.1.1.any.tar.gz"
+    sha256 = "c55a5e96b61e8a3565ccf2a725f44cdf23a431f05cd13fe7016d63afb0459fd4"
+    url = "https://github.com/JuliaBinaryWrappers/HighFive_jll.jl/releases/download/HighFive-v3.2.0+0/HighFive.v3.2.0.any.tar.gz"

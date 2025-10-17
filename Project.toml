@@ -1,6 +1,6 @@
 name = "HighFive_jll"
 uuid = "714382d7-300d-5cff-9119-eab393adbf23"
-version = "3.1.1+0"
+version = "3.2.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
