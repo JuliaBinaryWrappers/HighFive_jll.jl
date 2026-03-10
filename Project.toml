@@ -1,6 +1,6 @@
 name = "HighFive_jll"
 uuid = "714382d7-300d-5cff-9119-eab393adbf23"
-version = "3.2.0+0"
+version = "3.3.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -10,7 +10,7 @@ HDF5_jll = "0234f1f7-429e-5d53-9886-15a909be8d59"
 
 [compat]
 JLLWrappers = "1.7.0"
-julia = "1.6"
+julia = "1.10"
 Libdl = "< 0.0.1, 1"
 Artifacts = "< 0.0.1, 1"
-HDF5_jll = "~1.14.6"
+HDF5_jll = "2.0.0"
